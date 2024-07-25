@@ -621,6 +621,11 @@ footer .footer--copyrights a {
 			padding-top: 90px;
 		}
 
+		.fixed-call-btn {
+			bottom: 12px;
+			right: 12px; 
+		}
+
 		.banner--container {
 			aspect-ratio: 4/3;
 		}
