@@ -490,7 +490,7 @@ nav .menu span {
 	position: fixed;
 	bottom: 50px;
 	right: 30px; 
-
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 #fixedbutton {
